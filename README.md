@@ -1,4 +1,5 @@
 **Sales Report & Finance Report for AtliQ Hardware**
+
 🎯 Objective: With the existing data, the goal was to reduce dependence on Excel files and introduce company executives to data analytics using Power Pivot. The project aimed to achieve the following:
 
 Sales Report :
